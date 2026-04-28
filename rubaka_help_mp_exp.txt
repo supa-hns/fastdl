@@ -1,0 +1,26 @@
+<body bgcolor="#07070d">
+<center>
+<table width="94%" cellpadding="10" cellspacing="0" border="0">
+<tr><td align="center">
+<font color="#e8c800" size="6"><b>DRUNK GAMING - RUBAKA</b></font><br>
+<font color="#999999" size="2">Ayuda interactiva del servidor</font><br><br>
+
+<img src="https://TU_FASTDL/rubaka/help_mp_exp.jpg" width="760"><br><br>
+<table width="92%" cellpadding="8" cellspacing="0" border="1" bordercolor="#333333">
+<tr bgcolor="#111122"><td>
+<font color="#e8c800" size="5"><b>MP, EXP Y CONSEJOS</b></font><br><br>
+<font color="#55aaff"><b>MP / Mana:</b></font><br>
+Las habilidades consumen MP. Si no tienes suficiente, no podras usar tu poder.<br>
+La energia se regenera con el tiempo y cerca de tu base.<br><br>
+<font color="#66ff66"><b>EXP:</b></font><br>
+Ganas EXP por matar enemigos y por capturar banderas en modo experiencia.<br><br>
+<font color="#ffcc00"><b>Consejos:</b></font><br>
+- El Guardian defiende la bandera.<br>
+- El Ladron roba rapido, pero muere facil.<br>
+- El Mentalista puede empujar enemigos al vacio.<br>
+- Spiderman es rapido, pero no puede usar hook con bandera.
+</td></tr></table>
+<br><br><font color="#555555" size="2">Escribe /ayuda para volver al menu de ayuda.</font>
+</td></tr></table>
+</center>
+</body>
